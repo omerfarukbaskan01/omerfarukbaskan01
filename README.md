@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ömer Faruk</h1>
-<h3 align="center">A passionate pixel artist from Türkiye</h3>
+<h1 align="center">Hi 👋, I'm Ömer Faruk, A passionate pixel artist from Türkiye</h1>
 
 - 🔭 I’m currently working on [LabRealms](www.chunkslab.com)
 
