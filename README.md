@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ömer Faruk, A passionate pixel artist from Türkiye</h1>
 
-- 🔭 I’m currently working on [LabRealms](www.chunkslab.com)
+- 🔭 I’m currently working on [ChunksLab and some Commissions](www.chunkslab.com)
 
 - 👨‍💻 All of my projects are available at [www.omerbeyy.com](www.omerbeyy.com)
 
